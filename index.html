@@ -59,7 +59,7 @@
 
         //CALLING API: CONDITIONAL VARIABLE DECLARATION
         const url = (countryName !== '') ? `https://restcountries.com/v3.1/name/${countryName}` : `https://restcountries.com/v3.1/all`;
-      fetch(url)
+         fetch(url)
         .then(response => response.json())
         .then(data => {
           allCountries = data;
@@ -141,7 +141,7 @@
                     </div>
                     <div>
                     <p>Top-level domain: ${country.tld[0]}</p>
-                    <p>Currencies: ${country.currency}</p>
+                    <p>Currencies: ${country.currencies[0]}</p>
                     <p>Languages: ${country.languages[0]}</p>
                     </div>
                   

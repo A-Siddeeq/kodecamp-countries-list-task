@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/A-Siddeeq/kodecamp-countries-list-task)
+- Live Site URL: [Vercel](https://kodecamp-countries-list-task.vercel.app/)
 
 ### Built with
 
@@ -43,7 +43,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@A-Siddeeq](https://www.frontendmentor.io/profile/A-Siddeeq)
 
 ## Acknowledgments
 
